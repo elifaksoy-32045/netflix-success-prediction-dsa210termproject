@@ -107,8 +107,7 @@ The datasets are merged based on title names to enrich the Netflix dataset with 
 netflix-success-prediction/
 │
 ├── data/              # Raw and processed datasets
-├── notebooks/         # Jupyter notebooks (EDA, ML)
-├── results/           # Figures and outputs
+├── notebooks/         # Jupyter notebooks (EDA)
 ├── requirements.txt   # Dependencies
 └── README.md
 ```
